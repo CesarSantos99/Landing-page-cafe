@@ -8,7 +8,7 @@ Este é um projeto de **landing page responsiva** desenvolvido com HTML e CSS pu
 - CSS3
 - Flexbox
 - Responsividade 
-- Ícones via Font Awesome ou outro site (ex: [Iconmonstr](https://iconmonstr.com))
+- Ícones
 
 ## 🎯 Objetivo
 
