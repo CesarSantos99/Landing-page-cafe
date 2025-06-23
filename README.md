@@ -20,5 +20,5 @@ O objetivo do projeto é treinar a construção de uma página do zero, pratican
 
 ## 📸 Imagem do Projeto
 
-![☕Café do Céu - Google Chrome 23_06_2025 20_06_54](https://github.com/user-attachments/assets/655f8e66-a9df-4f45-845d-f1d7ca01904e)
+![☕Café do Céu - Google Chrome 23_06_2025 20_09_45](https://github.com/user-attachments/assets/01f3b460-c392-4b09-8f12-26c3e0b5ff4a)
 
