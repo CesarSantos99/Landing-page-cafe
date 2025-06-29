@@ -18,7 +18,8 @@ O objetivo do projeto é treinar a construção de uma página do zero, pratican
 - Layout responsivo
 - Organização de código
 
-## 📸 Imagem do Projeto
+## 📸 Video do Projeto
 
-![☕Café do Céu - Google Chrome 23_06_2025 20_09_45](https://github.com/user-attachments/assets/01f3b460-c392-4b09-8f12-26c3e0b5ff4a)
+![cafe](https://github.com/user-attachments/assets/338a3577-b42f-47de-af7d-e3748a73a089)
+
 
