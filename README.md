@@ -1,4 +1,4 @@
-# 🚀 Landing Page - Projeto HTML e CSS
+# 🚀 ☕Café do Céu
 
 Este é um projeto de **landing page responsiva** desenvolvido com HTML e CSS puro, como parte de um desafio para praticar conceitos básicos de estruturação e estilização de páginas web.
 
